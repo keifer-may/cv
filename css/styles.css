@@ -1,0 +1,46 @@
+body{
+  background-color: #FAF1E6;
+  font-family: Arial;
+  font-size: 16px;
+  margin: 5%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #C0D8C0;
+  border-width: 5px;
+  width: 8%;
+}
+
+h1 {
+  color: #064420;
+  font-weight: bold;
+}
+
+h2 {
+  color: #064420;
+  font-weight: bold;
+}
+
+h3 {
+  color: #064420;
+  font-weight: bold;
+}
+
+h4 {
+  color: #064420;
+  font-weight: bold;
+}
+
+.circular{
+  border-radius: 100%;
+}
+
+.my_link{
+  color: #064420;
+}
+
+.my_link:hover{
+  color: #D9534F;
+}
